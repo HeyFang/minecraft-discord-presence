@@ -1,4 +1,6 @@
-name: Presence
-version: '1.0-SNAPSHOT'
-main: Presence
-api-version: '1.21'
+name: Discord_Presence
+main: presence.Presence
+version: 1.0
+api-version: 1.21
+description: A plugin to show Discord Rich Presence for players joining the server.
+author: HeyFang
