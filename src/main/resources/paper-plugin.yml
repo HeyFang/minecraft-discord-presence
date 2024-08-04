@@ -1,0 +1,4 @@
+name: Presence
+version: '1.0-SNAPSHOT'
+main: Presence
+api-version: '1.21'
